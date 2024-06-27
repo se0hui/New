@@ -1,5 +1,6 @@
 # <span style = "color:green">Git이란 무엇인가?</span>
 
+
 Git이란, <span style = "color:yellow">버전 관리 시스템</span>의 하나이다.
 
 ## <span style = "color:lightgreen">버전 관리 시스템이란 무엇인가?</span>

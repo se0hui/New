@@ -1,5 +1,6 @@
 # <span style = "color:blueviolet"> JSON(JavaScript Object Notation) </span>
 
+
 - 데이터를 **저장** 또는 **교환**하기 위해 사용되는 텍스트 기반의 **DATA 교환 표준**
 - JavaScript에서 객체를 만들 때 사용하는 표현식을 의미한다.
 - JSON 표현식은 사람과 기계 모두 이해하기 쉽고 용량이 작다.
